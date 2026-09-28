@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80">
+  <text x="160" y="44" font-family="'Playfair Display', 'Cormorant Garamond', serif" font-size="28" font-weight="600" letter-spacing="0.22em" fill="#201A17" text-anchor="middle">MORROW</text>
+  <text x="160" y="66" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="500" letter-spacing="0.45em" fill="#B56A3A" text-anchor="middle">CAFÉ · INDORE</text>
+  <line x1="80" y1="52" x2="110" y2="52" stroke="#D8C6AE" stroke-width="0.8" />
+  <line x1="210" y1="52" x2="240" y2="52" stroke="#D8C6AE" stroke-width="0.8" />
+</svg>
